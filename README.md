@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![ailr16 GitHub stats](https://github-readme-stats.vercel.app/api?username=ailr16)](https://github.com/anuraghazra/github-readme-stats)
+
