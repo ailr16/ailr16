@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ailr16 GitHub stats](https://github-readme-stats.vercel.app/api?username=ailr16)](https://github.com/anuraghazra/github-readme-stats)
+[![ailr16 GitHub stats](https://github-readme-stats.vercel.app/api?username=ailr16&count_private=true&show_icons=true&theme=gotham)](https://github.com/ailr16)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailr16&repo=BodePlot-DS1054Z&theme=gotham&show_owner)](https://github.com/ailr16/BodePlot-DS1054Z)
 
