@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![ailr16 GitHub stats](https://github-readme-stats.vercel.app/api?username=ailr16&count_private=true&show_icons=true&theme=gotham)](https://github.com/ailr16)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailr16&theme=gotham&hide=jupyter%20notebook)](https://github.com/ailr16)
